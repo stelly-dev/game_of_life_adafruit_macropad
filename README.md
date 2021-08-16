@@ -4,6 +4,11 @@
 
 A simple toy for fidgeting with your macropad.
 
+## Dependencies
+
+In addition to the default macropad libs, you'll also need to
+add the [Adafruit ImageLoad](https://github.com/adafruit/Adafruit_CircuitPython_ImageLoad) library
+
 ## Instructions:
 
 Press the button on the lower right to start the cell editor
