@@ -8,7 +8,7 @@ A simple toy for fidgeting with your macropad.
 
 Press the button on the lower right to start the cell editor
 
-From there, the use the four buttons lit blue for cardinal directions
+From there, use the four buttons lit blue for cardinal directions
 The center button that's pinkish blue selects/deselects a cell
 
 to bring your creation to life, again press the lower right button,
